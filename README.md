@@ -1,2 +1,1 @@
-# Lab04_Repo
-To practice group collab
+To Practice Group Collaboration 
